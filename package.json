@@ -1,0 +1,21 @@
+{
+  "name": "porthole-proxy",
+  "version": "0.0.1",
+  "description": "NPM package for porthole proxy library",
+  "main": "lib/porthole.min.js",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "porthole",
+    "proxy",
+    "cross-domain",
+    "iframe",
+    "ternarylabs"
+  ],
+  "author": "Sylvain RAGOT <sylvnimes@hotmail.com>",
+  "license": "ISC"
+}
