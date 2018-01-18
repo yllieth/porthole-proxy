@@ -5,7 +5,7 @@ This is a PURE copy of the porthole library proposed by TernaryLabs [View Origin
 npm install porthole-proxy --save
 ```
 
-> For you convenience, here is a copy of the Readme file of the library. 
+> For your convenience, here is a copy of the Readme file of the library. 
 > I only updated the `<script>` tag to make it consistent with the `node_modules` hierarchy.
 
 ---
